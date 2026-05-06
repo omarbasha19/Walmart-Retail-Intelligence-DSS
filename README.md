@@ -418,7 +418,7 @@ Open the notebook.
 
 | Notebook |
 |---|
-| assi_3_complete.ipynb |
+| main.ipynb |
 
 Step 4
 
@@ -432,7 +432,7 @@ Run the Gradio cell at the end to launch the DSS interface.
 
 | File or Folder | Description |
 |---|---|
-| assi_3_complete.ipynb | Main Jupyter Notebook |
+| main.ipynb | Main Jupyter Notebook |
 | README.md | Project documentation |
 | train.csv | Walmart sales fact table |
 | stores.csv | Walmart store dimension table |
